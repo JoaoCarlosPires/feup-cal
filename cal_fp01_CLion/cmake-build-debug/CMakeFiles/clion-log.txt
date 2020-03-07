@@ -1,0 +1,4 @@
+/home/joaocarlosmrp/Transferências/CLion/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/joaocarlosmrp/Documentos/FEUP_MIEIC/CAL/Aulas Praticas/cal_fp01_CLion"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/joaocarlosmrp/Documentos/FEUP_MIEIC/CAL/Aulas Praticas/cal_fp01_CLion/cmake-build-debug

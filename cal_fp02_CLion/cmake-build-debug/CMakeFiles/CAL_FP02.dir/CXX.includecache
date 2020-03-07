@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joaocarlosmrp/Documentos/FEUP_MIEIC/CAL/Aulas Praticas/cal_fp02_CLion/Tests/Sudoku.cpp
+Sudoku.h
+/home/joaocarlosmrp/Documentos/FEUP_MIEIC/CAL/Aulas Praticas/cal_fp02_CLion/Tests/Sudoku.h
+
+/home/joaocarlosmrp/Documentos/FEUP_MIEIC/CAL/Aulas Praticas/cal_fp02_CLion/Tests/Sudoku.h
+string
+-
+sstream
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
