@@ -34,17 +34,20 @@ De forma a diminuir o tempo de carregamento para a ordem dos segundos, sugere-se
 
 Na pasta .idea/, abrir o ficheiro workspace.xml e acrescentar a seguinte linha:
 
+```
 <configuration CONFIG_NAME="Release" />
-
+```
 De modo a ficar algo do género:
 
 (...)
+```
 <component name="CMakeSettings">
     <configurations>
         <configuration CONFIG_NAME="Debug" />
         <configuration CONFIG_NAME="Release" />
     </configurations>
 </component>
+```
 (...)
 
 Fazer Reload CMake Project.
