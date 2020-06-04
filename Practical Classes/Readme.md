@@ -6,7 +6,7 @@
 
 1, 2, 3
 
-## Exercises To Do
+### Exercises To Do
 
 4
 
@@ -16,13 +16,13 @@
 
 1
 
-## Exercises To Do
+### Exercises To Do
 
 2
 
 ## TP3
 
-## Exercises To Do
+### Exercises To Do
 
 1
 
@@ -32,13 +32,13 @@
 
 1, 2a)
 
-## Exercises To Do
+### Exercises To Do
 
 2b), 2c), 3a), 3b)
 
 ## TP5
 
-## Exercises To Do
+### Exercises To Do
 
 1, 2, 3, 4
 
@@ -48,18 +48,18 @@
 
 1, 2
 
-## Exercises To Do
+### Exercises To Do
 
 3
 
 ## TP7
 
-## Exercises To Do
+### Exercises To Do
 
 1
 
 ## TP8
 
-## Exercises To Do
+### Exercises To Do
 
 1
